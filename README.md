@@ -107,8 +107,6 @@ Based on research paper: "Ransomware detection using machine learning algorithms
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-
 Project Link: [https://github.com/YOUR_USERNAME/RansomGuard-ML](https://github.com/Bilall2003/RansomGuard-ML)
 
 ---

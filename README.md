@@ -24,13 +24,16 @@ RansomGuard-ML is an intelligent ransomware detection system that monitors Windo
 │   Sysmon Logs       │  ← Windows API monitoring
 └──────────┬──────────┘
 ↓
+
 ┌─────────────────────┐
 │  Feature Extraction │  ← N-gram + CF-NCF
 └──────────┬──────────┘
 ↓
+
 ┌─────────────────────┐
 │  Random Forest ML   │  ← Classification
 └──────────┬──────────┘
+
 ↓
 ┌─────────────────────┐
 │  Alert System       │  ← Real-time notifications
@@ -105,10 +108,3 @@ MIT License - see [LICENSE](LICENSE) file
 
 Based on research paper: "Ransomware detection using machine learning algorithms" by Bae et al.
 
-## 📧 Contact
-
-Project Link: [https://github.com/YOUR_USERNAME/RansomGuard-ML](https://github.com/Bilall2003/RansomGuard-ML)
-
----
-
-⭐ Star this repo if you find it useful!

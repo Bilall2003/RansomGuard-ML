@@ -21,21 +21,15 @@ RansomGuard-ML is an intelligent ransomware detection system that monitors Windo
 ## 🏗️ Architecture
 
    Sysmon Logs         ← Windows API monitoring
-      |
-      |
+
       
  Feature Extraction   ← N-gram + CF-NCF
-      |
-      |
       
 
  Random Forest ML   ← Classification
-      |
-      |
       
-┌─────────────────────┐
-│  Alert System       │  ← Real-time notifications
-└─────────────────────┘
+
+ Alert System        ← Real-time notifications
 
 
 ## 🚀 Quick Start
